@@ -1,2 +1,2 @@
 # CODO_A_CODO
-Ejercicio realizados en el programa CODO A CODO
+TP3 de JS, Prox. carpetas diferenciando los diferentes TP 
